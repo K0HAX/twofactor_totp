@@ -31,4 +31,7 @@
 			<provider>OCA\TwoFactorTOTP\Activity\Provider</provider>
 		</providers>
 	</activity>
+    <commands>
+        <command>OCA\TwoFactorTOTP\Command\RecoverTOTP</command>
+    </commands>
 </info>
